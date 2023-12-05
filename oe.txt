@@ -168,38 +168,3 @@ wildlife,https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
 wild 1,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 xplore,http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
 Now kids,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-松视1台p2p,p2p://216.244.75.178:9906/656c1cd8000a5321000d780dccaf8d3c.ts
-奥视1,http://125.227.210.55:20845/VideoInput/play.ts
-奥视2,http://125.227.210.55:55643/VideoInput/play.ts
-惊艳台,http://125.227.210.55:57286/VideoInput/play.ts
-香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
-PenthouseGold,http://51.159.102.100/PenthouseGold/index.m3u8
-RedLight,http://51.159.102.100/RedlightHD/index.m3u8
-PenthouseGold,http://146.59.54.163/353/index.m3u8
-DorcelTV,http://146.59.54.163/345/index.m3u8
-DorcelTV,http://146.59.54.163/359/index.m3u8
-HustlerHD,http://146.59.54.163/348/index.m3u8 
-HustlerHD,http://146.59.54.163/349/index.m3u8
-OLaLa,http://146.59.54.163/350/index.m3u8
-Babes,http://146.59.54.163/354/index.m3u8
-PrivateTV,http://146.59.54.163/356/index.m3u8
-RedLight,http://146.59.54.163/358/index.m3u8
-VividRed,http://146.59.54.163/361/index.m3u8
-XXLTV,http://146.59.54.163/363/index.m3u8
-BrazzersTV,https://cdn-main.lolokokotv/brazzers.stream/chunks.m3u8
-DorcelTV,https://cdn-main.lolokokotv/DorcelTV.stream/chunks.m3u8
-HustlerHD,https://cdn-main.lolokokotv/hustler.stream/chunks.m3u8
-XXLTV,https://cdn-main.lolokokotv/xxl.stream/chunks.m3u8
-Eroxxx,https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
-PrivateTV,https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
-RedLight,https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
-OLaLa,http://31.148.48.15/O-la-la/index.m3u8
-PureTaboo,http://78.47.224.234/puretaboo/index.m3u8
-BrazzersTV,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-DesireHD,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-DorcelTV,http://88.212.7.11/live/test_dorcel_hd _hevc/playlist.m3u8
-HustlerHD,http://88.212.7.11/live/test_hustler_hd_hevc/playlist.m3u8
-Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-ExtasyHD,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-miamitv,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
