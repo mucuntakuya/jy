@@ -844,8 +844,6 @@ TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-翡翠台p2p,p2p://216.244.75.178:9906/656c1b610005741d0007bdf68cb2d0cd.ts
-东森新闻p2p,p2p://216.244.75.178:9906/656c1bca00041517000957c4bd3d8ddc.ts
 TVB 翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 无线新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
