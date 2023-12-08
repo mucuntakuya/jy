@@ -623,7 +623,6 @@ CCTV5+,http://42.57.169.57:8888/rtp/232.0.0.93:1234
 厦门卫视,http://42.57.169.57:8888/rtp/232.0.0.160:1234
 兵团卫视,http://42.57.169.57:8888/rtp/232.0.0.67:1234
 延边卫视,http://42.57.169.57:8888/rtp/232.0.0.161:1234
-
 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
@@ -657,7 +656,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 奕坛春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-
 超级综艺,http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8?HlsProfileId=
 超级电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
 超级电视剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221235788/1.m3u8?HlsProfileId=
@@ -736,167 +734,86 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 东北剧场,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3 
 东北热剧,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=3 
 动作电影,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3 
-
 动作电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3 
-
 古装剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3 
-
 欢乐剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3 
-
 欢乐剧场,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3 
-
 家庭剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000012/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3 
-
 家庭剧场,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000008284/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3 
-
 金牌综艺,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3 
-
 金牌综艺,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3 
-
 惊悚悬疑,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3 
-
 惊悚悬疑,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3 
-
 精品大剧,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000020/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3 
-
 精品大剧,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3 
-
 精品纪录,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3 
-
 精品记录,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000019/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3 
-
 精品萌宠,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3 
-
 精品萌宠,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3 
-
 精品体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000021/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3 
-
 精品体育,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3 
-
 精品综合,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=3 
-
 精品综合,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3 
-
 军旅剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3 
-
 军事评论,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000022/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3 
-
 魅力潇湘,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000041/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3 
-
 魅力潇湘,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3 
-
 魅力潇湘,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3 
-
 明星大片,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3 
-
 农业致富,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000003/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3 
-
 武博世界,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3 
-
 炫舞未来,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000044/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=3 
-
 炫舞未来,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3 
-
 怡伴健康,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000023/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000023&livemode=1&stbId=3 
-
 怡伴健康,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3 
-
 中国功夫,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3 
-
 动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3 
-
 动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3 
-
 动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3 
-
 都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3 
-
 都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000004412/1.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3 
-
 都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3 
-
 法治天地,http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3 
-
 欢笑剧场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3 
-
 欢笑剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3 
-
 金色学堂,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3 
-
 金色学堂,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000061/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000061&livemode=1&stbId=3 
-
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3 
-
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3 
-
 乐游,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3 
-
 乐游,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000092/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=3 
-
 乐游,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040025/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=3 
-
 乐游,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000006249/1.m3u8?channel-id=bestzb&Contentid=5000000010000006249&livemode=1&stbId=3 
-
 乐游,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3 
-
 魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3 
-
 魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3 
-
 魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000008656/1.m3u8?channel-id=bestzb&Contentid=5000000010000008656&livemode=1&stbId=3 
-
 魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000060/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000060&livemode=1&stbId=3 
-
 七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3 
-
 七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3 
-
 生活时尚,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3 
-
 生活时尚,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3 
-
 游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3 
-
 游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=3 
-
 游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000011/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000011&livemode=1&stbId=3 
-
 新动漫,http://42.57.169.57:8888/rtp/232.0.0.36:1234
-
 家庭理财,http://42.57.169.57:8888/rtp/232.0.0.39:1234
-
 环球旅游,http://42.57.169.57:8888/rtp/232.0.0.65:1234
-
 四海钓鱼,http://42.57.169.57:8888/rtp/232.0.0.66:1234
-
 中华特产,http://42.57.169.57:8888/rtp/232.0.0.89:1234
-
 优优宝贝,http://42.57.169.57:8888/rtp/232.0.0.100:1234
-
 车迷,http://42.57.169.57:8888/rtp/232.0.0.112:1234
-
 生态环境,http://42.57.169.57:8888/rtp/232.0.0.113:1234
-
 百姓健康,http://42.57.169.57:8888/rtp/232.0.0.121:1234
-
 中国天气,http://42.57.169.57:8888/rtp/232.0.0.144:1234
-
 财富天下,http://42.57.169.57:8888/rtp/232.0.0.147:1234
-
 生活时尚,http://42.57.169.57:8888/rtp/232.0.0.107:1234
-
 乐游,http://42.57.169.57:8888/rtp/232.0.0.108:1234
-
 游戏风云,http://42.57.169.57:8888/rtp/232.0.0.127:1234
-
 动漫秀场,http://42.57.169.57:8888/rtp/232.0.0.128:1234
-
 金色学堂,http://42.57.169.57:8888/rtp/232.0.0.133:1234
-
 法治天地,http://42.57.169.57:8888/rtp/232.0.0.134:1234
-
 都市剧场,http://42.57.169.57:8888/rtp/232.0.0.149:1234
-
 爱电竞,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3 
 爱电竞,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000054/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3 
 爱谍战,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3 
@@ -1053,7 +970,6 @@ Channel V,http://36.36.200.212:9901/tsfile/live/1010_1.m3u8?key=txiptv&url=tvzb.
 TVB 星河,http://113.117.74.12:8081/hls/135/index.m3u8
 TVB J2,http://r.jdshipin.com/ndGgS
 TVB J2,http://r.jdshipin.com/Nr5jq
-
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 Animal Planet,http://45.159.74.14:80/AnimalPlanet/index.m3u8
@@ -1140,3 +1056,84 @@ MusicTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&
 日本映画专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 时代剧专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
 卫星剧场,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+
+
+test-spt,#genre#
+
+SKY SPORT NEWS (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72186
+SKY SPORT PREMIER LEAGUE (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72187
+SKY SPORT FOOTBALL (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72188
+SKY SPORT ACTION (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72189
+SKY SPORT ARENA (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72190
+SKY SPORT MIX (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72191
+SKY SPORT MAIN EVENT (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72192
+SKY SPORT F1 (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72193
+SKY SPORT GOLF (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72194
+SKY SPORT CRICKET (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72195
+BT SPORT 1 (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72196
+BT SPORT 2 (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72197
+BT SPORT 3 (UK),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72198
+SPORT TV 1 (PT),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72199
+SPORT TV 2 (PT),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72200
+SPORT TV 3 (PT),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72201
+SPORT TV 4 (PT),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72202
+SPORT TV 5 (PT),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72203
+ELEVEN SPORT 1 (PT),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72204
+ELEVEN SPORT 2 (PT),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72205
+beIN SP0RTS 1 (TR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72206
+beIN SP0RTS 2 (TR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72207
+SKY SPORT NEWS (DE),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72208
+SKY SPORT 1 (DE),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72209
+SKY SPORT 2 (DE),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72210
+BUNDESLIGA 1 (DE),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72211
+DAZN Sport 1 (DE),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72212
+DAZN Sport 2 (DE),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72213
+ESPN 1 (NL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72214
+ESPN 2 (NL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72215
+ZIGGO SPORT SELECT (NL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72216
+ELEVEN SPORT 1 (PL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72217
+ELEVEN SPORT 2 (PL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72218
+ELEVEN SPORT 3 (PL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72219
+Canal  Sport 1 (PL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72220
+Canal  Sport 2 (PL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72221
+beIN SP0RTS 1 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72222
+beIN SP0RTS 2 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72223
+beIN SP0RTS PREMIUM (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72224
+beIN SP0RTS 3 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72225
+beIN SP0RTS 4 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72226
+beIN SP0RTS 5 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72227
+beIN SP0RTS 6 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72228
+beIN SP0RTS 7 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72229
+beIN SP0RTS 8 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72230
+beIN SP0RTS 9 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72231
+beIN SP0RTS 1 EN (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72232
+beIN SP0RTS 2 EN (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72233
+beIN SP0RTS MAX 1 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72234
+beIN SP0RTS MAX 2 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72235
+beIN SP0RTS MAX 3 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72236
+beIN SP0RTS MAX 4 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72237
+beIN SP0RTS MAX 5 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72238
+beIN SP0RTS MAX 6 (AR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72239
+RMC SPORT 1 (FR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72240
+RMC SPORT 2 (FR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72241
+RMC SPORT 3 (FR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72242
+RMC SPORT 4 (FR),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72243
+LALIGA TV BAR (ES),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72244
+Arena Sport 1 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72245
+Arena Sport 2 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72246
+Arena Sport 3 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72247
+Arena Sport 4 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72248
+Arena Sport 5 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72249
+SPORT KLUB 1 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72250
+SPORT KLUB 2 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72251
+SPORT KLUB 3 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72252
+SPORT KLUB 4 (EX-YU),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72253
+Super Sport 1 (AL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72254
+Super Sport 2 (AL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72255
+Super Sport 3 (AL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72256
+Tring Sport 1 (AL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72257
+Tring Sport 2 (AL),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72258
+DIGI SPORT 1 (RO),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72259
+DIGI SPORT 2 (RO),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72260
+DIGI SPORT 3 (RO),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72261
+DIGI SPORT 4 (RO),http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/72262
