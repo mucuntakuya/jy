@@ -983,8 +983,6 @@ CNN,http://89.254.128.5:22280/cnn/video.m3u8
 discovery,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
 discovery,http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 fashiontv,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-fight,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-impact,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 KBS,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 moviesphere,https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -998,15 +996,12 @@ rakuten-action,http://rakuten-action-8-nl.samsung.wurl.tv/1200.m3u8
 rakuten-drama,http://rakuten-drama-8-nl.samsung.wurl.tv/1200.m3u8
 rakuten-family,http://rakuten-family-8-nl.samsung.wurl.tv/1200.m3u8
 rakuten-romance,http://rakuten-romance-8-nl.samsung.wurl.tv/1200.m3u8
-realstory,https://realstories-samsung-uk.amagi.tv/playlist.m3u8
-realstory,https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
 starsports1,http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 tennischannel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 tennischannel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 tracesport,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 wildearth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 wildlife,https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
-wild 1,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 
 测试日本,#genre#
 
