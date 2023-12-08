@@ -245,8 +245,6 @@ CCTV-15,http://42.57.169.57:8888/rtp/232.0.0.179:1234
 CCTV-16,http://42.57.169.57:8888/rtp/232.0.0.182:1234
 CCTV-17,http://42.57.169.57:8888/rtp/232.0.0.230:1234
 CCTV5+,http://42.57.169.57:8888/rtp/232.0.0.93:1234
-
-
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
@@ -587,7 +585,6 @@ CCTV5+,http://42.57.169.57:8888/rtp/232.0.0.93:1234
 重庆卫视,http://218.241.192.50:8808/udp/239.3.1.122:8160
 江西卫视,http://218.241.192.50:8808/udp/239.3.1.123:8164
 吉林卫视,http://218.241.192.50:8808/udp/239.3.1.240:8172
-
 辽宁卫视,http://42.57.169.57:8888/rtp/232.0.0.126:1234
 北京卫视,http://42.57.169.57:8888/rtp/232.0.0.117:1234
 天津卫视,http://42.57.169.57:8888/rtp/232.0.0.125:1234
@@ -1056,7 +1053,6 @@ MusicTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&
 日本映画专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 时代剧专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
 卫星剧场,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
-
 
 test-spt,#genre#
 
