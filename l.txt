@@ -244,7 +244,6 @@ CCTV-14,http://42.57.169.57:8888/rtp/232.0.0.140:1234
 CCTV-15,http://42.57.169.57:8888/rtp/232.0.0.179:1234
 CCTV-16,http://42.57.169.57:8888/rtp/232.0.0.182:1234
 CCTV-17,http://42.57.169.57:8888/rtp/232.0.0.230:1234
-CCTV5+,http://42.57.169.57:8888/rtp/232.0.0.93:1234
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
