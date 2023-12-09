@@ -1047,3 +1047,92 @@ MusicTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&
 日本映画专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 时代剧专门频道,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
 卫星剧场,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+
+测试体育,#genre#
+
+beIN SPORTS FEED,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/12
+beIN SPORTS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/5395
+beIN SPORTS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/8
+beIN SPORTS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/5396
+beIN SPORTS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9
+beIN SPORTS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/11
+beIN SPORTS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/26
+beIN SPORTS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/7
+beIN SPORTS 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/14
+beIN SPORTS 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/15
+beIN SPORTS 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/16
+beIN SPORTS 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/17
+beIN SPORTS 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/18
+beIN SPORTS 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9237
+beIN SPORTS 4,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/19
+beIN SPORTS 4,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9238
+beIN SPORTS 5,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/69216
+beIN SPORTS 5,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/69215
+beIN SPORTS MAX1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20
+beIN SPORTS MAX1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9233
+beIN SPORTS MAX1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9234
+beIN SPORTS MAX2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/21
+beIN SPORTS MAX2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9235
+beIN SPORTS MAX2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9236
+beIN SPORT SHABER,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/22
+beIN SPORT SHABER,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/22358
+BEINCONNET 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/30561
+BEINCONNET 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/30562
+BEINCONNET 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/30563
+BEINCONNET 4,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/30564
+BEINCONNET 5,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/30565
+BEINCONNET 6,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/30566
+S SPORT,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/24
+S SPORT,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20085
+S SPORT 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/25
+S SPORT 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20086
+SPOR SMART,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20929
+SPOR SMART,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/23
+SPOR SMART,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/19465
+SPOR SMART,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/22489
+SPOR SMART 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/19320
+SPOR SMART 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20087
+TIVIBU SPOR,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/91777
+TIVIBU SPOR 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/27
+TIVIBU SPOR 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/28
+TIVIBU SPOR 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/29
+TIVIBU SPOR 4,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/36055
+EUROSPORT 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/34
+EUROSPORT 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35
+NBA TV,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/36
+TRT SPOR,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/30
+TRT SPOR,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/9241
+TRT SPOR,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35965
+A SPOR,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/31
+GS TV,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/32
+FB TV,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/33
+TJK TV,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37
+FIGHTBOX,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/3539
+PROTURK KICKBOKS,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20322
+PROTURK WWE,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20323
+PROTURK EGZERSIZ,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/20324
+EDGE SPORT,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/21010
+EXXEN 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35702
+EXXEN 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/36269
+EXXEN 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/188557
+EXXEN 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37842
+EXXEN 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/36085
+EXXEN 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/36268
+EXXEN 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/36086
+EXXEN 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/36267
+EXXEN 4,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37725
+EXXEN 4,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37726
+EXXEN 5,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37727
+EXXEN 5,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37728
+EXXEN 6,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37729
+EXXEN 6,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/37730
+EXXEN 7,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/50566
+EXXEN 7,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/50567
+EXXEN 8,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/50568
+EXXEN 8,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/50569
+S SPORT PLUS 1,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35959
+S SPORT PLUS 2,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35960
+S SPORT PLUS 3,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35961
+S SPORT PLUS 4,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35962
+S SPORT PLUS 5,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35963
+S SPORT PLUS 6,http://abmsmarttv.com:8080/emirgunay/Qg2nwVmfpe4x/35964
