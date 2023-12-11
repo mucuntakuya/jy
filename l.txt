@@ -953,6 +953,57 @@ MusicTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&
 
 测试体育,#genre#
 
+PT ELEVEN S1,http://supersonictv.live:8080/073501/431385/7626
+PT ELEVEN S1,http://supersonictv.live:8080/073501/431385/7627
+PT ELEVEN S2,http://supersonictv.live:8080/073501/431385/7628
+PT ELEVEN S2,http://supersonictv.live:8080/073501/431385/7629
+PT ELEVEN S3,http://supersonictv.live:8080/073501/431385/7630
+PT ELEVEN S3,http://supersonictv.live:8080/073501/431385/7631
+PT ELEVEN S4,http://supersonictv.live:8080/073501/431385/7632
+PT ELEVEN S4,http://supersonictv.live:8080/073501/431385/7633
+PT ELEVEN S5,http://supersonictv.live:8080/073501/431385/7634
+PT ELEVEN S5,http://supersonictv.live:8080/073501/431385/7635
+PT ELEVEN S6,http://supersonictv.live:8080/073501/431385/7636
+PT ELEVEN S6,http://supersonictv.live:8080/073501/431385
+PT SPORT,http://supersonictv.live:8080/073501/431385/7702
+PT SPORT,http://supersonictv.live:8080/073501/431385/7703
+PT SPORT 1,http://supersonictv.live:8080/073501/431385/7704
+PT SPORT 1,http://supersonictv.live:8080/073501/431385/7705
+PT SPORT 2,http://supersonictv.live:8080/073501/431385/7706
+PT SPORT 2,http://supersonictv.live:8080/073501/431385/7707
+PT SPORT 3,http://supersonictv.live:8080/073501/431385/7708
+PT SPORT 3,http://supersonictv.live:8080/073501/431385/7709
+PT SPORT 4,http://supersonictv.live:8080/073501/431385/7710
+PT SPORT 4,http://supersonictv.live:8080/073501/431385/7711
+PT SPORT 4K,http://supersonictv.live:8080/073501/431385/7712
+PT SPORT 5,http://supersonictv.live:8080/073501/431385/7713
+PT SPORT 5,http://supersonictv.live:8080/073501/431385/7714
+UK SkySports Football,http://supersonictv.live:8080/073501/431385/78150
+UK SkySports Golf,http://supersonictv.live:8080/073501/431385/78151
+UK SkySports Main Events,http://supersonictv.live:8080/073501/431385/78152
+UK SkySports MIX,http://supersonictv.live:8080/073501/431385/78153
+UK SkySports News,http://supersonictv.live:8080/073501/431385/78154
+UK SkySports Premier League,http://supersonictv.live:8080/073501/431385/78155
+UK SkySports Racing,http://supersonictv.live:8080/073501/431385/78156
+AF S LaLiga,http://supersonictv.live:8080/073501/431385/86861
+AF S PSL,http://supersonictv.live:8080/073501/431385/86862
+AF S Premier League,http://supersonictv.live:8080/073501/431385/86863
+AF S Grandstand,http://supersonictv.live:8080/073501/431385/86864
+AF S Variety 1,http://supersonictv.live:8080/073501/431385/86865
+AF S Variety 2,http://supersonictv.live:8080/073501/431385/86866
+AF S Variety 3,http://supersonictv.live:8080/073501/431385/86867
+AF S Variety 4,http://supersonictv.live:8080/073501/431385/86868
+AF S Football,http://supersonictv.live:8080/073501/431385/86869
+AF S Action,http://supersonictv.live:8080/073501/431385/86870
+AF S Rugby,http://supersonictv.live:8080/073501/431385/86871
+AF S Cricket,http://supersonictv.live:8080/073501/431385/86872
+AF S Blitz,http://supersonictv.live:8080/073501/431385/86873
+AF S Máximo,http://supersonictv.live:8080/073501/431385/86874
+AF S Golf,http://supersonictv.live:8080/073501/431385/86875
+AF S Tennis,http://supersonictv.live:8080/073501/431385/86876
+AF S Play,http://supersonictv.live:8080/073501/431385/86877
+AF S WWE,http://supersonictv.live:8080/073501/431385/86878
+AF S Motorsport,http://supersonictv.live:8080/073501/431385/86879
 astro aiqiyi,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571198&extension=ts
 astro AOD 351,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571226&extension=ts
 astro AOD 352,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571225&extension=ts
