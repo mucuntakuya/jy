@@ -888,7 +888,6 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-电影1905,http://awei.beimua.com/1905.php
 
 测试代理,#genre#
 
@@ -1689,40 +1688,39 @@ AMC 最愛電影,https://fake-stream.livednow.com/4gtv/39?token=c8997aef1a692f28
 
 测试综合,#genre#
 
-奥视1,http://125.227.210.55:20845/VideoInput/play.ts
 奥视HD,http://125.227.210.55:55643/VideoInput/play.ts
 惊艳台,http://125.227.210.55:57286/VideoInput/play.ts
 香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
 潘朵拉预告,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-PenthouseGold·,http://51.159.102.100/PenthouseGold/index.m3u8
-RedLight·,http://51.159.102.100/RedlightHD/index.m3u8
-PenthouseGold·,http://146.59.54.163/353/index.m3u8
-DorcelTV·,http://146.59.54.163/345/index.m3u8
-DorcelTV·,http://146.59.54.163/359/index.m3u8
-HustlerHD·,http://146.59.54.163/348/index.m3u8 
-HustlerHD·,http://146.59.54.163/349/index.m3u8
-OLaLa·,http://146.59.54.163/350/index.m3u8
-Babes·,http://146.59.54.163/354/index.m3u8
-PrivateTV·,http://146.59.54.163/356/index.m3u8
-RedLight·,http://146.59.54.163/358/index.m3u8
+PenthouseGold,http://51.159.102.100/PenthouseGold/index.m3u8
+RedLight,http://51.159.102.100/RedlightHD/index.m3u8
+PenthouseGold,http://146.59.54.163/353/index.m3u8
+Dorcel,http://146.59.54.163/345/index.m3u8
+Dorcel,http://146.59.54.163/359/index.m3u8
+Hustler,http://146.59.54.163/348/index.m3u8 
+Hustler,http://146.59.54.163/349/index.m3u8
+OLaLa,http://146.59.54.163/350/index.m3u8
+Babes,http://146.59.54.163/354/index.m3u8
+Private,http://146.59.54.163/356/index.m3u8
+RedLight,http://146.59.54.163/358/index.m3u8
 VividRed,http://146.59.54.163/361/index.m3u8
-XXLTV·,http://146.59.54.163/363/index.m3u8
-BrazzersTV·,https://cdn-main.lolokokotv/brazzers.stream/chunks.m3u8
-DorcelTV·,https://cdn-main.lolokokotv/DorcelTV.stream/chunks.m3u8
-HustlerHD·,https://cdn-main.lolokokotv/hustler.stream/chunks.m3u8
-XXLTV·,https://cdn-main.lolokokotv/xxl.stream/chunks.m3u8
-Eroxxx·,https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
-PrivateTV·,https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
-RedLight·,https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
-OLaLa·,http://31.148.48.15/O-la-la/index.m3u8
-PureTaboo·,http://78.47.224.234/puretaboo/index.m3u8
-BrazzersTV·,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-DesireHD·,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-DorcelTV·,http://88.212.7.11/live/test_dorcel_hd _hevc/playlist.m3u8
-HustlerHD·,http://88.212.7.11/live/test_hustler_hd_hevc/playlist.m3u8
-Erox·,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Eroxxx·,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-ExtasyHD·,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+XXL,http://146.59.54.163/363/index.m3u8
+Brazzers,https://cdn-main.lolokokotv/brazzers.stream/chunks.m3u8
+Dorcel,https://cdn-main.lolokokotv/DorcelTV.stream/chunks.m3u8
+Hustler,https://cdn-main.lolokokotv/hustler.stream/chunks.m3u8
+XXL,https://cdn-main.lolokokotv/xxl.stream/chunks.m3u8
+Eroxxx,https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+Private,https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
+RedLight,https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
+OLaLa,http://31.148.48.15/O-la-la/index.m3u8
+PureTaboo,http://78.47.224.234/puretaboo/index.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd _hevc/playlist.m3u8
+Hustler,http://88.212.7.11/live/test_hustler_hd_hevc/playlist.m3u8
+Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 sea beach,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
 Sex world,p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
