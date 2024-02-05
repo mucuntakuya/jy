@@ -282,8 +282,6 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
-咪咕,#genre#
-
 CCTV-1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
 CCTV-2,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
@@ -363,8 +361,6 @@ NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 NewTV怡伴健康,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
 NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
-河北,#genre#
-
 CCTV-1,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
 CCTV-2,http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
 CCTV-3,http://222.223.119.21:8888/newlive/live/hls/4/live.m3u8
@@ -414,8 +410,6 @@ CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 河北卫视,http://222.223.119.21:8888/newlive/live/hls/48/live.m3u8
 卡酷少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
 金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
-
-贵州,#genre#
 
 CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
