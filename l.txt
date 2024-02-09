@@ -1,6 +1,5 @@
 国内,#genre#
 
-中联,#genre#
 CCTV-1,http://222.92.7.170:3333/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://222.92.7.170:3333/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://222.92.7.170:3333/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
