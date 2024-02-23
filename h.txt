@@ -3559,11 +3559,8 @@ RECORD NEWS,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3837
 REDE BRASIL,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4966
 REDE CNT SP,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3343
 REDE CNT CURITIBA,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7044
-REDE GOSPEL,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6842
-REDE GOSPEL,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4856
 REDE GOSPEL,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4857
 REDE GOSPEL,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4858
-REDE TV ESP��RITO SANTO,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6882
 REDE TV TOCANTINS,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6883
 REDE VIDA,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6843
 REDE VIDA,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4814
@@ -3855,8 +3852,6 @@ HBO MAX STAR + 4,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7913
 RECORD CAMPINAS,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7914
 RECORD SJRP,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7915
 RECORD SJRP,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7916
-PREMIERE 8,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7928
-PREMIERE 8,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7929
 CAZE TV 1,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7930
 CAZE TV 2,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7931
 CAZE TV 3,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7932
