@@ -768,21 +768,6 @@ CCTV-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto
 
 纬来体育台,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育台,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-Jade翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=704844920101597
-J2台,https://live.hkdvb.com/hls/live/82.m3u8?token=704844920101597
-News新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=704844920101597
-Pearl明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=704844920101597
-財體資訊台,https://live.hkdvb.com/hls/live/85.m3u8?token=704844920101597
-HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=704844920101597
-HOY TV資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=704844920101597
-HOY 財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=704844920101597
-ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=704844920101597
-ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=704844920101597
-港台電視 31,https://live.hkdvb.com/hls/live/31.m3u8?token=704844920101597
-港台電視 32,https://live.hkdvb.com/hls/live/32.m3u8?token=704844920101597
-CCTV-1 港澳,https://live.hkdvb.com/hls/live/33.m3u8?token=704844920101597
-CGTN Docu,https://live.hkdvb.com/hls/live/34.m3u8?token=704844920101597
-CGTN English,https://live.hkdvb.com/hls/live/35.m3u8?token=704844920101597
 香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
