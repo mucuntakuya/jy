@@ -3852,9 +3852,6 @@ REDE SUPER (BR2),http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7030
 测试,#genre#
 
 潘朵啦预告台,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-奥视HD,http://125.227.210.55:55643/VideoInput/play.ts
-奥视惊艳台,http://125.227.210.55:57286/VideoInput/play.ts
-奥视香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
 潘朵啦玩美,mitv://generationnexxxt.com:19806/b18b7d6f932a44b68dadb6bc37a5df28
 潘朵啦惊艳,mitv://generationnexxxt.com:19806/9f2fedfddd1c44159afc05fbc6d19111
 香蕉台,mitv://generationnexxxt.com:19806/c56271abc82643f7b8a2a5184f56b80d
@@ -3880,15 +3877,6 @@ HAPPY(p),P2p://generationnexxxt.com:19806/659660790009efada3abe7bb6374465e
 LOOK TV(p),P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9
 JStar极限电影台(p),P2p://generationnexxxt.com:19806/65965afc0003ca30a39675dd41a40275
 PLAYBOY(p),P2p://generationnexxxt.com:19806/a1bdd4044b1241498c615ee02ab4e868
-潘朵啦玩美(u),https://z88.ubtvfans.com:443/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-松视1台(u),https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-松视2台(u),https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松视3台(u),https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-彩虹e台(u),https://z88.ubtvfans.com:443/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-彩虹电影(u),https://z88.ubtvfans.com:443/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
-彩虹k台(u),https://z88.ubtvfans.com:443/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-极限电影台(u),https://z88.ubtvfans.com:443/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
-花花公子(u),https://z88.ubtvfans.com:443/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 FASHION TV,http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6849
