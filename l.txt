@@ -70,6 +70,11 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+山西经济与科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
+山西社会与法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
+山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
+山西影视,video://http://m.haoqu99.com/3/shan-xi/shanxiys.html
+山西黄河,video://http://m.haoqu99.com/3/shan-xi/huanghxw.html
 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
@@ -78,3 +83,5 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 运城公共频道,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+河南梨园,video://http://m.haoqu99.com/3/henan/liyuan.html
+河南戏曲,video://http://m.haoqu99.com/3/henan/ydxq.html
