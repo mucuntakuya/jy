@@ -70,11 +70,11 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/t614x00.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/h1dpxy0.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/6oaxm0y.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/c6iMx50.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/12tlxe0.m3u8
+山西经济与科技,http://live.cooltv.top/tv/tide.php?id=sxjj#https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/t614x00.m3u8
+山西社会与法治,http://live.cooltv.top/tv/tide.php?id=sxshfz#https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/h1dpxy0.m3u8
+山西文体生活,http://live.cooltv.top/tv/tide.php?id=sxwtsh#https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/6oaxm0y.m3u8
+山西影视,http://live.cooltv.top/tv/tide.php?id=sxys#https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/c6iMx50.m3u8
+山西黄河,http://live.cooltv.top/tv/tide.php?id=sxhh#https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/12tlxe0.m3u8
 山西经济与科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
 山西社会与法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
