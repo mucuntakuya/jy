@@ -77,6 +77,7 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/othcs1m.m3u8
 山西经济与科技,http://118.79.115.77:6001/rtp/226.0.1.81:2003
 山西社会与法治,http://118.79.115.77:6001/rtp/226.0.1.83:2005
+山西文体生活,http://60.220.167.218:8082/rtp/226.0.1.200:2006
 山西影视,http://118.79.115.77:6001/rtp/226.0.1.82:2004
 山西黄河,http://118.79.115.77:6001/rtp/226.0.1.84:2002
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
