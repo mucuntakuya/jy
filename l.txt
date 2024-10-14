@@ -83,5 +83,6 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 运城公共频道,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+河南梨园,http://59.174.171.182:1234/rtp/239.69.1.33:9838
 河南梨园,video://http://www.guangbomi.com/tv/henan/hnly.html
 河南戏曲,video://http://www.guangbomi.com/tv/henan/hnxq.html
