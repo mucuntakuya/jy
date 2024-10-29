@@ -70,8 +70,8 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/w414100.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/g81djg0.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/g81djg0.m3u8
+山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/43di4g5.m3u8
 山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/t1ojugp.m3u8
 山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/z7idmg7.m3u8
 山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/o3thcg1.m3u8
