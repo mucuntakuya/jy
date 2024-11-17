@@ -129,11 +129,6 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 纪实科教,http://[2409:8087:74d9:21::6]/270000001128/9900000515/index.m3u8
 纪实人文,http://[2409:8087:74d9:21::6]/270000001128/9900000528/index.m3u8
 纪实人文,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002199/index.m3u8
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/4614800.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/sdp8y00.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/joa8m0y.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/n5iM850.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/c1tl8e0.m3u8
 山西经济与科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
 山西社会与法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
