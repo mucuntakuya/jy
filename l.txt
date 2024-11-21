@@ -129,11 +129,11 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 纪实科教,http://[2409:8087:74d9:21::6]/270000001128/9900000515/index.m3u8
 纪实人文,http://[2409:8087:74d9:21::6]/270000001128/9900000528/index.m3u8
 纪实人文,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002199/index.m3u8
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/r41qn00.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/ldpny00.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/w1oanm0.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/a4iMn50.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/1tlne0m.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/961djs0.m3u8
+山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/xdi4s5m.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/eojgspm.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/s5idms7.m3u8
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/h1thcs1.m3u8
 山西经济与科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
 山西社会与法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
