@@ -224,4 +224,3 @@ SiTV都市剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/
 河南梨园,video://http://m.haoqu99.com/3/henan/liyuan.html
 河南移动戏曲,video://http://m.haoqu99.com/3/henan/ydxq.html
 河南睛彩中原,video://http://m.haoqu99.com/3/henan/hntv11.html
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
