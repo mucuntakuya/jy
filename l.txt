@@ -208,11 +208,11 @@ SiTV欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/
 精彩影视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=
 东方影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 中国天气,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
-山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/r714c00.m3u8
-山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/f2dpcy0.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/41oacm0.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/a7iMc50.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/z2tlce0.m3u8
+山西经济与科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/151u700.m3u8
+山西社会与法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/bdp7y00.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/m1oa7m0.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/k4iM750.m3u8
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/9tl7e0m.m3u8
 山西经济与科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
 山西社会与法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
