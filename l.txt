@@ -243,7 +243,6 @@ SiTV欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/
 北京新闻,http://nn.7x9d.cn/北京.php?id=bjxw
 北京财经,http://nn.7x9d.cn/北京.php?id=bjcj
 北京文艺,http://nn.7x9d.cn/北京.php?id=bjwy
-北京体育,http://nn.7x9d.cn/北京.php?id=bjty
 北京影视,http://nn.7x9d.cn/北京.php?id=bjys
 北京生活,http://nn.7x9d.cn/北京.php?id=bjsh
 西安新闻综合,http://nn.7x9d.cn/西安.php?id=1
