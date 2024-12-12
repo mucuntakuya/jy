@@ -250,5 +250,4 @@ SiTV欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/
 西安商务资讯,http://nn.7x9d.cn/西安.php?id=3
 西安戏剧影视,http://nn.7x9d.cn/西安.php?id=4
 西安丝路频道,http://nn.7x9d.cn/西安.php?id=5
-西安移动电视,http://nn.7x9d.cn/西安.php?id=7
 三亚-1,http://139.180.135.172:82/hizb/200000001891/460000089100010017/1.m3u8?IASHttpSessionId=
