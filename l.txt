@@ -237,3 +237,9 @@ SiTV欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/
 陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
 陕西公共,http://gxlive.snrtv.com/sx5-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+北京影视,http://nn.7x9d.cn/北京.php?id=bjys
+北京文艺,http://nn.7x9d.cn/北京.php?id=bjwy
+北京财经,http://nn.7x9d.cn/北京.php?id=bjcj
+北京生活,http://nn.7x9d.cn/北京.php?id=bjsh
+北京体育,http://nn.7x9d.cn/北京.php?id=bjty
+北京新闻,http://nn.7x9d.cn/北京.php?id=bjxw
