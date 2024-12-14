@@ -190,11 +190,6 @@ SiTV欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/
 海口1,http://183.255.46.4:16080/live/tv1001.m3u8
 海口2,http://183.255.46.4:16080/live/tv2502.m3u8
 海口3,http://183.255.46.4:16080/live/tv2503.m3u8
-成都综合,https://waxy.serv00.net/chengdu.php?id=cdtv1
-成都经济,https://waxy.serv00.net/chengdu.php?id=cdtv2
-成都生活,https://waxy.serv00.net/chengdu.php?id=cdtv3
-成都影视,https://waxy.serv00.net/chengdu.php?id=cdtv4
-成都公共,https://waxy.serv00.net/chengdu.php?id=cdtv5
 南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
