@@ -385,10 +385,6 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
 石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
 石家庄都市,http://nn.7x9d.cn/石家庄.php?id=7
-三亚-1,http://139.180.135.172:82/hizb/200000001891/460000089100010017/1.m3u8?IASHttpSessionId=
-海口-1,http://183.255.46.4:16080/live/tv1001.m3u8
-海口-2,http://183.255.46.4:16080/live/tv2502.m3u8
-海口-3,http://183.255.46.4:16080/live/tv2503.m3u8
 南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
