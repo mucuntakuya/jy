@@ -393,8 +393,7 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-杭州1,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
-杭州2,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
-杭州3,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
-杭州4,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
-杭州5,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
+杭州综合,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
+杭州明珠,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
+杭州生活,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
+杭州影视,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
