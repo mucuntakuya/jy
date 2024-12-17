@@ -131,11 +131,11 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 北京纪实科教,http://[2409:8087:74d9:21::6]/270000001128/9900000515/index.m3u8
 中国天气,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
-山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/w414s00.m3u8
-山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/gdpsy00.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/r1oasm0.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/f4iMs50.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/4tlse0m.m3u8
+山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/e61dj40.m3u8
+山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/21dis45.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/9ojg4pm.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/x5idm47.m3u8
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/m1thc41.m3u8
 山西经济科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
 山西社会法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
