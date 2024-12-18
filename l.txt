@@ -144,6 +144,16 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 运城-1,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 运城-2,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城盐湖,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+河南梨园,video://http://m.haoqu99.com/3/henan/liyuan.html
+移动戏曲,video://http://m.haoqu99.com/3/henan/ydxq.html
+睛彩中原,video://http://m.haoqu99.com/3/henan/hntv11.html
+河南都市,video://http://m.haoqu99.com/3/henan/hntv2.html
+河南民生,video://http://m.haoqu99.com/3/henan/hntv3.html
+河南法治,video://http://m.haoqu99.com/3/henan/hntv4.html
+河南电视剧,video://http://m.haoqu99.com/3/henan/hntv5.html
+河南新闻,video://http://m.haoqu99.com/3/henan/hntv6.html
+河南公共,video://http://m.haoqu99.com/3/henan/hntv8.html
+河南乡村,video://http://m.haoqu99.com/3/henan/hntv9.html
 河南梨园,https://waxy.serv00.net/henan.php?id=hnly
 移动戏曲,https://waxy.serv00.net/henan.php?id=ydxj
 睛彩中原,https://waxy.serv00.net/henan.php?id=jczy
@@ -154,9 +164,6 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 河南新闻,https://waxy.serv00.net/henan.php?id=hnxw
 河南公共,https://waxy.serv00.net/henan.php?id=hngg
 河南乡村,https://waxy.serv00.net/henan.php?id=hnxc
-河南梨园,video://http://m.haoqu99.com/3/henan/liyuan.html
-移动戏曲,video://http://m.haoqu99.com/3/henan/ydxq.html
-睛彩中原,video://http://m.haoqu99.com/3/henan/hntv11.html
 晋城新闻综合,http://live.jinnews.com.cn/xwzh/sd/live.m3u8?zshanxd
 晋城文化生活,http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
 晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
