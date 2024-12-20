@@ -134,11 +134,11 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 北京纪实科教,http://[2409:8087:74d9:21::6]/270000001128/9900000515/index.m3u8
 中国天气,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
-山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/c71djg0.m3u8
-山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/02di4g5.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/pojvgpm.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/v6idmg7.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/k2th4g1.m3u8
+山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/l51w700.m3u8
+山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/9dp7y00.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/21oa7m0.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/45iM750.m3u8
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/ttl7e0m.m3u8
 山西经济科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
 山西社会法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
@@ -198,3 +198,10 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 杭州明珠,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
 杭州生活,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
 杭州影视,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
+绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+长春综合,http://r2bj.vzan.com/v/slowlive_763922717250086092.flv
+长春文旅,http://r2bj.vzan.com/v/slowlive_077592635708642635.flv
+长春生活,http://r2bj.vzan.com/v/slowlive_317775187203351257.flv
+长春经济,http://r2bj.vzan.com/v/slowlive_349780930188572439.flv
