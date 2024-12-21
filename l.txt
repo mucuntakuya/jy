@@ -201,7 +201,3 @@ CCTV-5+,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002139/in
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-长春综合,http://r2bj.vzan.com/v/slowlive_763922717250086092.flv
-长春文旅,http://r2bj.vzan.com/v/slowlive_077592635708642635.flv
-长春生活,http://r2bj.vzan.com/v/slowlive_317775187203351257.flv
-长春经济,http://r2bj.vzan.com/v/slowlive_349780930188572439.flv
