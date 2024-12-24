@@ -185,7 +185,13 @@ CETV-4,http://39.134.136.161:6610/000000001000/5000000011000031126/index.m3u8?li
 南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-浙江影视,http://39.134.136.161:6610/000000001000/2000000004000000001/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000001
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 杭州综合,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
 杭州明珠,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
 杭州生活,http://yw.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
