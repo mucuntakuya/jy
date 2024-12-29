@@ -157,15 +157,6 @@ CETV-4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?cha
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 宁夏经济,http://stream.nxtv.com.cn/jjpd/sd/live.m3u8
 宁夏公共,http://stream.nxtv.com.cn/ggpd/sd/live.m3u8
-福建综合,http://nn.7x9d.cn/福建.php?id=4
-福建公共,http://nn.7x9d.cn/福建.php?id=6
-福建新闻,http://nn.7x9d.cn/福建.php?id=13
-福建电视剧,http://nn.7x9d.cn/福建.php?id=7
-福建旅游,http://nn.7x9d.cn/福建.php?id=8
-福建经视,http://nn.7x9d.cn/福建.php?id=9
-福建文体,http://nn.7x9d.cn/福建.php?id=10
-福建少儿,http://nn.7x9d.cn/福建.php?id=2
-海峡卫视,http://nn.7x9d.cn/福建.php?id=3
 黑龙江农科,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江农科,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
