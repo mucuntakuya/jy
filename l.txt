@@ -111,8 +111,6 @@ CETV-4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?cha
 长治新闻综合,rtmp://live.njgdmm.com/changzhi/cztv1
 长治公共少儿,rtmp://live.njgdmm.com/changzhi/cztv2
 长治科教法制,http://live.njgdmm.com/changzhi/czetv.m3u8
-临汾公共,http://live2.lfgdw.cn/lfj2/lfj2.m3u8?auth_key=1737100315-0-0-d9f305436c8d56cd2015d6935d9bb6e0
-临汾科教,http://live.lfgdw.cn/lfj3/lfj3.m3u8?auth_key=1737526481-0-0-be06f75904e895e6e6e956a60a61476d
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西生活,http://gxlive.snrtv.com/sx3-SD.m3u8
 陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
