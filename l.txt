@@ -177,3 +177,5 @@ CETV-4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?cha
 桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林公共,https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
 桂林科教旅游,https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
+防城港新闻,http://nn.7x9d.cn/防城港.php?id=1
+防城港公共,http://nn.7x9d.cn/防城港.php?id=2
