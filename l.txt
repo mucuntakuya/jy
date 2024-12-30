@@ -134,13 +134,6 @@ CETV-4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?cha
 南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
@@ -170,8 +163,3 @@ CETV-4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?cha
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-无锡新闻,http://stream.thmz.com/wxtv1/playlist.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
-无锡都市,http://stream.thmz.com/wxtv3/playlist.m3u8	
-无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
