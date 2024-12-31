@@ -79,7 +79,6 @@ CETV-4,http://[2409:8087:74d2:21::9]/270000001128/9900000072/index.m3u8?channel-
 东方影视,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 精彩影视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=YanG-1989
 中国天气,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
-山西,#genre#
 山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/h71djg0.m3u8
 山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/52di4g5.m3u8
 山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/uojcgpm.m3u8
@@ -111,7 +110,6 @@ CETV-4,http://[2409:8087:74d2:21::9]/270000001128/9900000072/index.m3u8?channel-
 长治科教法制,http://live.njgdmm.com/changzhi/czetv.m3u8
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西生活,http://gxlive.snrtv.com/sx3-SD.m3u8
-陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
 陕西公共,http://gxlive.snrtv.com/sx5-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 西安新闻综合,http://nn.7x9d.cn/西安.php?id=1
