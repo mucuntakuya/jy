@@ -212,14 +212,6 @@ CGTN-西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-山东新闻,video://http://v.iqilu.com/live/ggpd/
-山东综艺,video://http://v.iqilu.com/live/zypd/
-山东生活,video://http://v.iqilu.com/live/shpd/
-山东文旅,video://http://v.iqilu.com/live/yspd/
-山东齐鲁,video://http://v.iqilu.com/live/qlpd/
-山东农科,video://http://v.iqilu.com/live/nkpd/
-山东少儿,video://http://v.iqilu.com/live/sepd/
-山东体育,video://http://v.iqilu.com/live/typd/
 宁夏经济,http://stream.nxtv.com.cn/jjpd/sd/live.m3u8
 宁夏公共,http://stream.nxtv.com.cn/ggpd/sd/live.m3u8
 福建综合,http://nn.7x9d.cn/福建.php?id=4
