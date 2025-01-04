@@ -153,7 +153,7 @@ CGTN-西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
 山西影视,video://http://m.haoqu99.com/3/shan-xi/shanxiys.html
 山西黄河,video://http://m.haoqu99.com/3/shan-xi/huanghxw.html
-运城-1,https://citymlive.sxrtv.com/live/sxycmlive.m3u8?hwSecret=20c66198090c6bc09496b46b700797313047d0eaa5bb4a30f64db3482b2187bd&hwTime=67772bfc
+运城-1,https://citymlive.sxrtv.com/live/sxycmlive.m3u8?hwSecret=c9e1018a7b8d9b60c4eceff20d143a34b22613e96c55311f63806375ac3bbf14&hwTime=6778a24a
 运城-1,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 运城-2,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城盐湖,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
