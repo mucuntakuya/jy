@@ -57,11 +57,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/w41vn00.m3u8
-山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/gdpny00.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/r1oanm0.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/f4iMn50.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/4tlne0m.m3u8
 山西经济科技,video://http://m.haoqu99.com/3/shan-xi/shanxijj.html
 山西社会法治,video://http://m.haoqu99.com/3/shan-xi/shanxikejiao.html
 山西文体生活,video://http://m.haoqu99.com/3/shan-xi/shanxigg.html
@@ -124,3 +119,8 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/w41vn00.m3u8
+山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/gdpny00.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/r1oanm0.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/f4iMn50.m3u8
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/4tlne0m.m3u8
