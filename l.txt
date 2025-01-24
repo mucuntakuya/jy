@@ -190,11 +190,6 @@ CCTV-5+,http://39.134.65.181/PLTV/88888888/224/3221225507/1.m3u8
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
 陕西秦腔,http://gxlive.snrtv.com/sx5-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-陕西新闻资讯,http://stream.snrtv.com/sxbc-1-BIMPV0.m3u8
-陕西都市青春,http://stream.snrtv.com/sxbc-2-oFGMPQ.m3u8
-陕西银龄,http://stream.snrtv.com/sxbc-3-aort01.m3u8
-陕西秦腔,http://stream.snrtv.com/sxbc-5-QRSVZ0.m3u8
-陕西体育休闲,http://stream.snrtv.com/sxbc-7-bnrU34.m3u8
 西安新闻综合,http://nn.7x9d.cn/西安.php?id=1
 西安都市频道,http://nn.7x9d.cn/西安.php?id=2
 西安商务资讯,http://nn.7x9d.cn/西安.php?id=3
