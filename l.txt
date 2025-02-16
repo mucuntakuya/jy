@@ -1,3 +1,4 @@
+
 国内,#genre#
 CCTV-1,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8?IASHttpSessionId=RR
 CCTV-1,http://39.134.65.181/PLTV/88888888/224/3221225816/1.m3u8
@@ -200,12 +201,12 @@ CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 家庭理财,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000064
 中华美食,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000052
 中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
-山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/1516r00.m3u8
-山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/bdpry00.m3u8
-山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/m1oarm0.m3u8
-山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/k4iMr50.m3u8
-山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/9tlre0m.m3u8
-运城-1,https://citymlive.sxrtv.com/live/sxycmlive.m3u8?hwSecret=d6d912304b30619bfa5bbc14b824c2b2cffbf01ac89590530be714b0b754117c&hwTime=67b10caf
+山西经济科技,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/j61djs0.m3u8
+山西社会法治,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/71di4s5.m3u8
+山西文体生活,https://livehhhttps.sxrtv.com/lsdream/agmpyEk/800/4ojgspm.m3u8
+山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/26idms7.m3u8
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/r1thcs1.m3u8
+运城-1,https://citymlive.sxrtv.com/live/sxycmlive.m3u8?hwSecret=c98b759bfdf4a790317e68a93ffa20a21bcc96fb51ee02d0c168c17a8623cb69&hwTime=67b26059
 运城-2,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城盐湖,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 河南梨园,http://php.jdshipin.com:8880/hntv.php?id=hnly
