@@ -1,57 +1,55 @@
 国内,#genre#
 parse=1
-CCTV-1,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8?IASHttpSessionId=RR
-CCTV-1,http://39.134.65.181/PLTV/88888888/224/3221225816/1.m3u8
-CCTV-1,http://39.134.65.181/PLTV/88888888/224/3221226075/1.m3u8
+CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8?$HLJYD 6M FHD
+CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?$HLJYD 4M FHD
+CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8?$HLJYD 2M HD
+CCTV-2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$HLJYD 2M HD
+CCTV-3,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?$HLJYD 4M FHD
+CCTV-4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?$HLJYD 4M FHD
+CCTV-4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8?$HLJYD 2M HD
+CCTV-5,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?$HLJYD 4M FHD
+CCTV-6,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8?$HLJYD 4M FHD
+CCTV-7,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8?$HLJYD 4M FHD
+CCTV-8,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8?$HLJYD 4M FHD
+CCTV-9,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8?$HLJYD 4M FHD
+CCTV-10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8?$HLJYD 6M FHD
+CCTV-10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8?$HLJYD 2.5M FHD
+CCTV-11,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8?$HLJYD 6M FHD
+CCTV-11,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8?$HLJYD 2M HD
+CCTV-12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8?$HLJYD 6M FHD
+CCTV-12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8?$HLJYD 2.5M FHD
+CCTV-13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8?$HLJYD 6M FHD
+CCTV-13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8?$HLJYD 4M FHD
+CCTV-13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?$HLJYD 4M FHD
+CCTV-14,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8?$HLJYD 6M FHD
+CCTV-14,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8?$HLJYD 2.5M FHD
+CCTV-15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8?$HLJYD 6M FHD
+CCTV-15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?$HLJYD 2M HD
+CCTV-16,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$HLJYD 4M FHD
+CCTV-17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?$HLJYD 4M FHD
+CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?$HLJYD 4M FHD
 CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
 CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
-CCTV-2,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv2/1.m3u8?IASHttpSessionId=RR
-CCTV-2,http://39.134.65.181/PLTV/88888888/224/3221225599/1.m3u8
-CCTV-3,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv3/1.m3u8?IASHttpSessionId=RR
-CCTV-3,http://39.134.65.181/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV-4,http://39.134.65.181/PLTV/88888888/224/3221226092/1.m3u8
-CCTV-4,http://39.134.65.181/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
-CCTV-5,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv5/1.m3u8?IASHttpSessionId=RR
-CCTV-5,http://39.135.135.4/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV-6,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv6/1.m3u8?IASHttpSessionId=RR
-CCTV-6,http://39.135.135.4/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
-CCTV-7,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv7/1.m3u8?IASHttpSessionId=RR
-CCTV-7,http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
-CCTV-8,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv8/1.m3u8?IASHttpSessionId=RR
-CCTV-8,http://39.134.65.181/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
-CCTV-9,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv9/1.m3u8?IASHttpSessionId=RR
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
-CCTV-10,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv10/1.m3u8?IASHttpSessionId=RR
 CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226473
-CCTV-11,http://39.134.65.181/PLTV/88888888/224/3221226123/1.m3u8
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
-CCTV-12,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv12/1.m3u8?IASHttpSessionId=RR
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226568
-CCTV-13,http://39.134.65.181/PLTV/88888888/224/3221226125/1.m3u8
-CCTV-13,http://39.134.65.181/PLTV/88888888/224/3221226077/1.m3u8
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226537
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226571
-CCTV-14,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv14/1.m3u8?IASHttpSessionId=RR
-CCTV-14,http://39.134.65.181/PLTV/88888888/224/3221226132/1.m3u8
-CCTV-14,http://39.134.65.181/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
-CCTV-15,http://39.134.65.181/PLTV/88888888/224/3221226127/1.m3u8
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-CCTV-17,http://111.29.9.33:6610/200000001898/ysten-business/live/H265-5500k-1080P-cctv17/1.m3u8?IASHttpSessionId=RR
-CCTV-17,http://39.134.65.181/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CCTV-5+,http://39.134.65.181/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225728
@@ -154,31 +152,8 @@ CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226427
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226558
-哈尔滨影视,http://39.134.65.181/PLTV/88888888/224/3221226104/1.m3u8
 哈尔滨影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226552
-哈尔滨生活,http://39.134.65.181/PLTV/88888888/224/3221226095/1.m3u8
 哈尔滨生活,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226526
-黑龙江少儿,http://39.134.65.181/PLTV/88888888/224/3221226002/1.m3u8
-吉林卫视,http://39.134.65.181/PLTV/88888888/224/3221226013/1.m3u8
-延边卫视,http://39.134.65.181/PLTV/88888888/224/3221226040/1.m3u8
-辽宁卫视,http://39.134.65.181/PLTV/88888888/224/3221226089/1.m3u8
-辽宁卫视,http://39.134.65.181/PLTV/88888888/224/3221225944/1.m3u8
-内蒙古卫视,http://39.134.65.181/PLTV/88888888/224/3221226017/1.m3u8
-北京卫视,http://39.135.135.46/PLTV/88888888/224/3221225678/1.m3u8
-天津卫视,http://39.134.65.181/PLTV/88888888/224/3221226003/1.m3u8
-河南卫视,http://39.134.65.181/PLTV/88888888/224/3221226023/1.m3u8
-湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
-江苏卫视,http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8
-江苏卫视,http://39.134.65.181/PLTV/88888888/224/3221225929/1.m3u8
-东方卫视,http://39.134.65.181/PLTV/88888888/224/3221225960/1.m3u8
-东南卫视,http://39.134.65.181/PLTV/88888888/224/3221226038/1.m3u8
-重庆卫视,http://39.134.65.181/PLTV/88888888/224/3221226001/1.m3u8
-山西卫视,http://39.134.65.181/PLTV/88888888/224/3221226009/1.m3u8
-宁夏卫视,http://39.134.65.181/PLTV/88888888/224/3221226028/1.m3u8
-兵团卫视,http://39.134.65.181/PLTV/88888888/224/3221226005/1.m3u8
-青海卫视,http://39.134.65.181/PLTV/88888888/224/3221225948/1.m3u8
-贵州卫视,http://39.134.65.181/PLTV/88888888/224/3221226030/1.m3u8
-广西卫视,http://39.134.65.181/PLTV/88888888/224/3221226091/1.m3u8
 广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 上海新闻,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
 都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
