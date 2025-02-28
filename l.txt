@@ -28,132 +28,113 @@ CCTV-15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 CCTV-16,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$HLJYD 4M FHD
 CCTV-17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?$HLJYD 4M FHD
 CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?$HLJYD 4M FHD
-CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
-CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
-CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
-CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
-CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
-CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
-CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
-CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226473
-CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
-CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
-CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226568
-CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
-CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226537
-CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226571
-CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
-CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
-CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
-CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
-北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225728
-北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226251
-东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
-东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225735
-东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226336
-天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
-天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225740
-天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226395
-河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
-河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225623
-河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226448
-河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
-河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226320
-陕西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225625
-陕西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226457
-山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624
-山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226392
-山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
-山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226507
-安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
-安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226498
-江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
-江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225613
-江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226495
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225612
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226342
-湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
-湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225627
-湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226501
-湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
-湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225610
-湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226430
-江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
-江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226504
-东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
-东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225620
-东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226377
-广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
-广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226374
-深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
-深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225739
-深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226510
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226380
-海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
-海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225639
-海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226445
-黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
-黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226421
-吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
-吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226386
-辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
-辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225619
-辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226254
-重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
-重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225618
-重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226463
-四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
-四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226513
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
-贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
-贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225626
-贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226383
-甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
-甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226522
-宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
-宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226454
-青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
-青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226323
-内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
-内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226389
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226460
-西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
-西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433
-西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433
-延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516
-兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
-康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
-安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
-山东教育卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225655
-北京纪实科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225729
-中国教育1台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225652
-中国教育2台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226425
-中国教育4台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225783
-黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
-黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
-黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
-黑龙江影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
-黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
-黑龙江农业科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
-黑龙江农业科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226492
-黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226371
-黑龙江影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226365
-黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226424
-黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226368
-黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226427
-哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
-哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226558
-哈尔滨影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226552
-哈尔滨生活,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226526
+北京卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8?$HLJYD 8M FHD
+北京卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?$HLJYD 4M FHD
+北京卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8?$HLJYD 1.5M SD
+东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8?$HLJYD 8M FHD
+东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8?$HLJYD 4M FHD
+东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?$HLJYD 4M FHD
+东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8?$HLJYD 1.5M SD
+天津卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8?$HLJYD 8M FHD
+天津卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8?$HLJYD 4M FHD
+天津卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8?$HLJYD 1.5M SD
+河北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8?$HLJYD 8M FHD
+河北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8?$HLJYD 1.5M SD
+河北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8?$HLJYD 1.5M SD
+河南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?$HLJYD 8M FHD
+河南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8?$HLJYD 1.5M SD
+陕西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8?$HLJYD 1.5M SD
+陕西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8?$HLJYD 1.5M SD
+山西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8?$HLJYD 1.5M SD
+山西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8?$HLJYD 1.5M SD
+山东卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8?$HLJYD 8M FHD
+山东卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8?$HLJYD 1.5M SD
+安徽卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8?$HLJYD 8M FHD
+安徽卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8?$HLJYD 1.5M SD
+江苏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8?$HLJYD 8M FHD
+江苏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8?$HLJYD 4M FHD
+江苏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8?$HLJYD 1.5M SD
+浙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8?$HLJYD 8M FHD
+浙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8?$HLJYD 4M FHD
+浙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8?$HLJYD 1.5M SD
+湖北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8?$HLJYD 8M FHD
+湖北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8?$HLJYD 4M FHD
+湖北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8?$HLJYD 1.5M SD
+湖南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8?$HLJYD 8M FHD
+湖南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8?$HLJYD 4M FHD
+湖南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8?$HLJYD 1.5M SD
+江西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8?$HLJYD 8M FHD
+江西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8?$HLJYD 1.5M SD
+东南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8?$HLJYD 8M FHD
+东南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8?$HLJYD 2M HD
+东南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8?$HLJYD 1.5M SD
+广东卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8?$HLJYD 8M FHD
+广东卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8?$HLJYD 1.5M SD
+深圳卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8?$HLJYD 8M FHD
+深圳卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8?$HLJYD 4M FHD
+深圳卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8?$HLJYD 1.5M SD
+广西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8?$HLJYD 8M FHD
+广西卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8?$HLJYD 1.5M SD
+海南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8?$HLJYD 8M FHD
+海南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8?$HLJYD 1.5M SD
+海南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8?$HLJYD 1.5M SD
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?$HLJYD 8M FHD
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8?$HLJYD 8M FHD
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8?$HLJYD 8M FHD
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8?$HLJYD 8M FHD
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8?$HLJYD 4M FHD
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8?$HLJYD 1.5M SD
+吉林卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8?$HLJYD 8M FHD
+吉林卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8?$HLJYD 1.5M SD
+辽宁卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?$HLJYD 8M FHD
+辽宁卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8?$HLJYD 2M HD
+辽宁卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8?$HLJYD 1.5M SD
+云南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8?$HLJYD 1.5M SD
+贵州卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8?$HLJYD 8M FHD
+贵州卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8?$HLJYD 1.5M SD
+贵州卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8?$HLJYD 1.5M SD
+四川卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8?$HLJYD 8M FHD
+四川卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8?$HLJYD 1.5M SD
+重庆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?$HLJYD 8M FHD
+重庆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?$HLJYD 2M HD
+重庆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8?$HLJYD 1.5M SD
+甘肃卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8?$HLJYD 1.5M SD
+甘肃卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8?$HLJYD 1.5M SD
+宁夏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8?$HLJYD 1.5M SD
+宁夏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8?$HLJYD 1.5M SD
+青海卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8?$HLJYD 1.5M SD
+青海卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8?$HLJYD 1.5M SD
+内蒙古卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?$HLJYD 1.5M SD
+内蒙古卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8?$HLJYD 1.5M SD
+新疆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8?$HLJYD 1.5M SD
+新疆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8?$HLJYD 1.5M SD
+西藏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8?$HLJYD 1.5M SD
+西藏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?$HLJYD 1.5M SD
+兵团卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8?$HLJYD 1.5M SD
+延边卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8?$HLJYD 1.5M SD
+康巴卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8?$HLJYD 1.5M SD
+安多卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8?$HLJYD 1.5M SD
+中国教育1台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8?$HLJYD 1.5M SD
+中国教育2台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8?$HLJYD 4M SD
+中国教育4台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8?$HLJYD 4M SD
+山东教育卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?$HLJYD 1.5M SD
+北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
+黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?$HLJYD 8M FHD
+黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8?$HLJYD 1.5M SD
+黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?$HLJYD 8M FHD
+黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8?$HLJYD 1.5M SD
+黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
+黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8?$HLJYD 1.5M SD
+黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD 8M FHD
+黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8?$HLJYD 1.5M SD
+黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD 8M FHD
+黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8?$HLJYD 1.5M SD
+黑龙江少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8?$HLJYD 8M FHD
+黑龙江少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8?$HLJYD 1.5M SD
+哈尔滨新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8?$HLJYD 8M FHD
+哈尔滨新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?$HLJYD 1.5M SD
+哈尔滨生活,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?$HLJYD 1.5M SD
+哈尔滨影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?$HLJYD 1.5M SD
 山西经济科技,https://apphhplushttps.sxrtv.com//television/live_wap_653.html?site=53&color=0697F4
 山西社会法治,https://apphhplushttps.sxrtv.com//television/live_wap_655.html?site=53&color=0697F4
 山西文体生活,https://apphhplushttps.sxrtv.com//television/live_wap_656.html?site=53&color=0697F4
@@ -164,5 +145,7 @@ CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 运城盐湖,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 河南梨园,http://m.haoqu99.com/3/henan/liyuan.html
 移动戏曲,http://m.haoqu99.com/3/henan/ydxq.html
-河南梨园,https://waxy.serv00.net/henan2.php?id=hnly
-移动戏曲,https://waxy.serv00.net/henan2.php?id=ydxj
+睛彩中原,http://m.haoqu99.com/3/henan/hntv11.html
+河南梨园,https://waxy.serv00.net/henan.php?id=hnly
+移动戏曲,https://waxy.serv00.net/henan.php?id=ydxj
+睛彩中原,https://waxy.serv00.net/henan.php?id=jczy
