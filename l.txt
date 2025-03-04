@@ -110,7 +110,6 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 山西影视,https://apphhplushttps.sxrtv.com//television/live_wap_654.html?site=53&color=0697F4
 山西黄河,https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
 运城-1,https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811843.html
-太原-1,https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
 梨园频道,https://static.hntv.tv/total/television/?id=154
 移动戏曲,https://static.hntv.tv/total/television/?id=163
 睛彩中原,https://static.hntv.tv/total/television/?id=157
