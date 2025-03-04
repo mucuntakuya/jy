@@ -2,7 +2,6 @@
 parse=1
 CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8?$HLJYD 6M FHD
 CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?$HLJYD 4M FHD
-CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8?$HLJYD 2M HD
 CCTV-2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$HLJYD 2M HD
 CCTV-3,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?$HLJYD 4M FHD
 CCTV-4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?$HLJYD 4M FHD
@@ -20,7 +19,6 @@ CCTV-12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8?$HLJYD 2.5M FHD
 CCTV-13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8?$HLJYD 6M FHD
 CCTV-13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8?$HLJYD 4M FHD
-CCTV-13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?$HLJYD 4M FHD
 CCTV-14,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8?$HLJYD 6M FHD
 CCTV-14,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8?$HLJYD 2.5M FHD
 CCTV-15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8?$HLJYD 6M FHD
@@ -32,7 +30,6 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 北京卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?$HLJYD 4M FHD
 东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8?$HLJYD 8M FHD
 东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8?$HLJYD 4M FHD
-东方卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?$HLJYD 4M FHD
 天津卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8?$HLJYD 8M FHD
 天津卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8?$HLJYD 4M FHD
 河北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8?$HLJYD 8M FHD
@@ -112,10 +109,3 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 梨园频道,https://static.hntv.tv/total/television/?id=154
 移动戏曲,https://static.hntv.tv/total/television/?id=163
 睛彩中原,https://static.hntv.tv/total/television/?id=157
-河南都市,https://static.hntv.tv/total/television/?id=141
-河南民生,https://static.hntv.tv/total/television/?id=146
-河南法治,https://static.hntv.tv/total/television/?id=147
-河南电视剧,https://static.hntv.tv/total/television/?id=148
-河南新闻,https://static.hntv.tv/total/television/?id=149
-河南公共,https://static.hntv.tv/total/television/?id=151
-河南乡村,https://static.hntv.tv/total/television/?id=152
