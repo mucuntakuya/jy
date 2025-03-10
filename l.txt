@@ -89,23 +89,18 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 延边卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8?$HLJYD 1.5M SD
 康巴卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8?$HLJYD 1.5M SD
 安多卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8?$HLJYD 1.5M SD
-厦门卫视,https://tv.bfsu.edu.cn/hls/xmtv.m3u8
-三沙卫视,https://tv.bfsu.edu.cn/hls/sshd.m3u8
-重温经典,https://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
-CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8
-CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
 中国教育1台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8?$HLJYD 1.5M SD
 中国教育2台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8?$HLJYD 4M SD
-中国教育3台,https://tv.bfsu.edu.cn/hls/cetv3.m3u8
+中国教育3,http://iptv.huuc.edu.cn/hls/cetv3.m3u8
 中国教育4台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8?$HLJYD 4M SD
 山东教育卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?$HLJYD 1.5M SD
 北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
-北京文艺,https://tv.bfsu.edu.cn/hls/btv2hd.m3u8
-北京影视,https://tv.bfsu.edu.cn/hls/btv4hd.m3u8
-北京财经,https://tv.bfsu.edu.cn/hls/btv5hd.m3u8
-北京生活,https://tv.bfsu.edu.cn/hls/btv7hd.m3u8
-北京新闻,https://tv.bfsu.edu.cn/hls/btv9hd.m3u8
-北京体育休闲,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京体育,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
+CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
 黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?$HLJYD 8M FHD
 黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?$HLJYD 8M FHD
 黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
