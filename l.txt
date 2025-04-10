@@ -123,6 +123,6 @@ IPTV 萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888
 山西影视,https://apphhplushttps.sxrtv.com//television/live_wap_654.html?site=53&color=0697F4
 山西黄河,https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
 运城-1,https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811843.html
-梨园频道,https://static.hntv.tv/total/television/?id=154
-移动戏曲,https://static.hntv.tv/total/television/?id=163
-睛彩中原,https://static.hntv.tv/total/television/?id=157
+梨园频道,http://p.ytelc.com/169l/henan/henan.php?id=liyuan
+移动戏曲,http://p.ytelc.com/169l/henan/henan.php?id=ydxq
+晴彩中原,http://p.ytelc.com/169l/henan/henan.php?id=hntv11
