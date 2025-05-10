@@ -56,7 +56,7 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 安多卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8?$HLJYD 1.5M SD
 中国教育1台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8?$HLJYD 1.5M SD
 中国教育2台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8?$HLJYD 4M SD
-中国教育3台,http://iptv.huuc.edu.cn/hls/cetv3.m3u8
+中国教育3台,http://www.dsk.cc/p/yssy.html?id=cetv3
 中国教育4台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8?$HLJYD 4M SD
 山东教育卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?$HLJYD 1.5M SD
 北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
