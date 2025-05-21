@@ -78,5 +78,5 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 运城-1,https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811843.html
 梨园频道,http://p.ytelc.com/169l/henan/henan.php?id=liyuan
 移动戏曲,http://p.ytelc.com/169l/henan/henan.php?id=ydxq
-晴彩中原,http://p.ytelc.com/169l/henan/henan.php?id=hntv11
+河南曲艺,http://p.ytelc.com/169l/henan/henan.php?id=hntv11
 河南戏曲,https://www.hndyjyfw.gov.cn/livePlay.html?u=16
