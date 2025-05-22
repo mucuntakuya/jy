@@ -70,10 +70,6 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-甘肃文化影视,https://liveout.gstv.com.cn/skt649/oip0kg.m3u8
-甘肃公共应急,https://liveout.gstv.com.cn/skt649/002kn9.m3u8
-甘肃少儿,https://liveout.gstv.com.cn/skt649/mmkwqg.m3u8
-甘肃科教,https://liveout.gstv.com.cn/skt649/yje9aa.m3u8
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
@@ -83,6 +79,12 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
 黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD 8M FHD
 黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD 8M FHD
+河北经济生活,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+河北农民,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北都市,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+河北影视剧,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
+河北少儿科教,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
+河北文旅公共,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 陕西新闻资讯,http://live.snrtv.com/1
 陕西都市青春,http://live.snrtv.com/2
 陕西银龄,http://live.snrtv.com/3
