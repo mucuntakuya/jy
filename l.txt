@@ -80,10 +80,9 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD 8M FHD
 黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD 8M FHD
 河北经济生活,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
-河北农民,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北三农,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
 河北都市,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
 河北影视剧,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
-河北少儿科教,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
 河北文旅公共,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 陕西新闻资讯,http://live.snrtv.com/1
 陕西都市青春,http://live.snrtv.com/2
