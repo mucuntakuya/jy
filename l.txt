@@ -59,6 +59,17 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 中国教育4台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8?$HLJYD 4M SD
 山东教育卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?$HLJYD 1.5M SD
 北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
+CCTV-4欧洲,https://wx65267199.tv12.xyz/19.m3u8
+CCTV-4美洲,https://wx65267199.tv12.xyz/20.m3u8
+CCTV第一剧场,https://wx65267199.tv12.xyz/26.m3u8
+CCTV风云剧场,https://wx65267199.tv12.xyz/27.m3u8
+CCTV怀旧剧场,https://wx65267199.tv12.xyz/28.m3u8
+上海新闻综合,https://wx65267199.tv12.xyz/63.m3u8
+上视东方影视,https://wx65267199.tv12.xyz/64.m3u8
+上海第一财经,https://wx65267199.tv12.xyz/65.m3u8
+CHC影迷电影,https://wx65267199.tv12.xyz/84.m3u8
+CHC动作电影,https://wx65267199.tv12.xyz/85.m3u8
+CHC家庭影院,https://wx65267199.tv12.xyz/86.m3u8
 吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
 吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
