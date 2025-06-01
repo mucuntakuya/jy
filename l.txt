@@ -59,18 +59,6 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 中国教育4台,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8?$HLJYD 4M SD
 山东教育卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?$HLJYD 1.5M SD
 北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
-CCTV电视指南,http://27.189.126.104:4022/rtp/239.254.201.217:7250
-CCTV第一剧场,http://27.189.126.104:4022/rtp/239.254.201.218:7258
-CCTV风云剧场,http://27.189.126.104:4022/rtp/239.254.201.219:7257
-CCTV怀旧剧场,http://27.189.126.104:4022/rtp/239.254.201.220:7256
-CCTV风云音乐,http://27.189.126.104:4022/rtp/239.254.201.221:7259
-CCTV风云足球,http://27.189.126.104:4022/rtp/239.254.201.222:7251
-CCTV高尔夫网球,http://27.189.126.104:4022/rtp/239.254.201.223:7252
-CCTV央视台球,http://27.189.126.104:4022/rtp/239.254.201.171:7176
-CCTV女性时尚,http://27.189.126.104:4022/rtp/239.254.201.228:7255
-CCTV央视文化精品,http://27.189.126.104:4022/rtp/239.254.201.229:7260
-CCTV兵器科技,http://27.189.126.104:4022/rtp/239.254.201.225:7249
-CCTV世界地理,http://27.189.126.104:4022/rtp/239.254.201.226:7254
 吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
 吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
@@ -89,18 +77,14 @@ CCTV世界地理,http://27.189.126.104:4022/rtp/239.254.201.226:7254
 黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
 黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD 8M FHD
 黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD 8M FHD
-河北经济生活,http://27.189.126.104:4022/rtp/239.254.200.18:6000
-河北都市,http://27.189.126.104:4022/rtp/239.254.200.19:6000
-河北影视剧,http://27.189.126.104:4022/rtp/239.254.200.20:6000
-河北少儿科教,http://27.189.126.104:4022/rtp/239.254.200.21:6000
-河北文旅公共,http://27.189.126.104:4022/rtp/239.254.200.22:6000
-河北农民,http://27.189.126.104:4022/rtp/239.254.200.23:6000
 山西经济科技,https://apphhplushttps.sxrtv.com//television/live_wap_653.html?site=53&color=0697F4
 山西社会法治,https://apphhplushttps.sxrtv.com//television/live_wap_655.html?site=53&color=0697F4
 山西文体生活,https://apphhplushttps.sxrtv.com//television/live_wap_656.html?site=53&color=0697F4
 山西影视,https://apphhplushttps.sxrtv.com//television/live_wap_654.html?site=53&color=0697F4
 山西黄河,https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
 运城-1,https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811843.html
+太原-1,https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
+临汾-1,https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811841.html
 梨园频道,http://p.ytelc.com/169l/henan/henan.php?id=liyuan
 移动戏曲,http://p.ytelc.com/169l/henan/henan.php?id=ydxq
 河南曲艺,http://p.ytelc.com/169l/henan/henan.php?id=hntv11
