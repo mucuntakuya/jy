@@ -123,6 +123,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226142/1.m3u8
 CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 山东教育卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?$HLJYD 1.5M SD
 北京纪实科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?$HLJYD 4M FHD
+金鹰纪实,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226228/1.m3u8
 吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
 吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
@@ -141,11 +142,14 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
 黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD 8M FHD
 黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD 8M FHD
-山西经济科技,https://apphhplushttps.sxrtv.com//television/live_wap_653.html?site=53&color=0697F4
-山西社会法治,https://apphhplushttps.sxrtv.com//television/live_wap_655.html?site=53&color=0697F4
-山西文体生活,https://apphhplushttps.sxrtv.com//television/live_wap_656.html?site=53&color=0697F4
-山西影视,https://apphhplushttps.sxrtv.com//television/live_wap_654.html?site=53&color=0697F4
-山西黄河,https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
+山西经济与科技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226147/1.m3u8
+山西经济与科技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226242/1.m3u8
+山西社会与法治,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226337/1.m3u8
+山西文体生活,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226161/1.m3u8
+山西影视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226225/1.m3u8
+山西影视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226340/1.m3u8
+山西黄河,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226239/1.m3u8
+山西黄河,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226343/1.m3u8
 运城-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225988/1.m3u8
 运城-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225985/1.m3u8
 盐湖频道,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226044/1.m3u8
