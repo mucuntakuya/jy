@@ -197,10 +197,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?$HLJYD 8M FHD
 黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?$HLJYD 8M FHD
 黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
@@ -227,7 +223,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 运城-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226309/1/1.m3u8
 盐湖频道,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226044/1/1.m3u8
 盐湖频道,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226329/1/1.m3u8
-梨园频道,http://www.kaniptv.cn/aa/hntv.php?id=hnly
-移动戏曲,http://www.kaniptv.cn/aa/hntv.php?id=ydxj
-河南曲艺,http://www.kaniptv.cn/aa/hntv.php?id=jczy
+梨园频道,http://p.ytelc.com/169l/henan/henan.php?id=liyuan
+移动戏曲,http://p.ytelc.com/169l/henan/henan.php?id=ydxq
+河南曲艺,http://p.ytelc.com/169l/henan/henan.php?id=hntv11
 河南戏曲,https://www.hndyjyfw.gov.cn/livePlay.html?u=16
