@@ -45,7 +45,6 @@ CCTV-5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226164/1/1.m3u8
 贵州卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225892/1/1.m3u8
 四川卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225742/1/1.m3u8
 重庆卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225804/1/1.m3u8
-
 甘肃卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225783/1/1.m3u8
 宁夏卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225798/1/1.m3u8
 青海卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225992/1/1.m3u8
