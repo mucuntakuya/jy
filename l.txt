@@ -48,8 +48,8 @@ CCTV-13,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226445/1/1.m3u8
 CCTV-14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225974/1/1.m3u8
 CCTV-14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1/1.m3u8
 CCTV-14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226243/1/1.m3u8
-CCTV-15,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225868/1/1.m3u8
 CCTV-15,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225971/1/1.m3u8
+CCTV-15,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225868/1/1.m3u8
 CCTV-15,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226448/1/1.m3u8
 CCTV-16,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225871/1/1.m3u8
 CCTV-16,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225949/1/1.m3u8
