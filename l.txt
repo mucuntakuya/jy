@@ -225,4 +225,3 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 河南梨园,http://www.kaniptv.cn/aa/hntv.php?id=hnly
 河南曲艺,http://www.kaniptv.cn/aa/hntv.php?id=jczy
 河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
-移动戏曲,video://http://m.haoqu99.com/3/henan/ydxq.html
