@@ -76,12 +76,12 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
 黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD 8M FHD
 黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD 8M FHD
-河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=8fd4e40fd2d5ab1d3ae5604e84a14a76
-河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=472adc22ba073fddfc003f9b0b7449cb
-河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=480f44f7e5462ee46d9c8f624ed4fd13
-河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=d3f59ae58085e7c5e3bf23f126a1109c
-河北文旅公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=1d8e71872b5d9b9937e729d343c73eb1
-河北三农,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=0ac3bfb63f4f55882db1e6d8c7d20b47
+河北经济生活,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516507.shtml
+河北都市,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516509.shtml
+河北影视剧,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516510.shtml
+河北少儿科教,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516511.shtml
+河北文旅公共,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516512.shtml
+河北三农,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516508.shtml
 山西经济与科技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226147/1/1.m3u8
 山西社会与法治,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226337/1/1.m3u8
 山西文体生活,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226161/1/1.m3u8
