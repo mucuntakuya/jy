@@ -71,11 +71,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 河北经济生活,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516507.shtml
 河北都市,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516509.shtml
 河北影视剧,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516510.shtml
