@@ -79,7 +79,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 河北经济生活,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516507.shtml
 河北都市,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516509.shtml
 河北影视剧,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516510.shtml
-河北少儿科教,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516511.shtml
 河北文旅公共,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516512.shtml
 河北三农,video://https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516508.shtml
 山西经济与科技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226147/1/1.m3u8
