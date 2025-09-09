@@ -91,9 +91,10 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 盐湖频道,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226044/1/1.m3u8
 太原-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226502/1/1.m3u8
 晋中综合,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226341/1/1.m3u8
-晋城新闻,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226344/1/1.m3u8
+晋城综合,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226344/1/1.m3u8
 河南梨园,http://www.kaniptv.cn/aa/hntv.php?id=hnly
 移动戏曲,http://www.kaniptv.cn/aa/hntv.php?id=ydxj
 河南曲艺,http://www.kaniptv.cn/aa/hntv.php?id=jczy
-河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
-
+河南戏曲,http://www.kaniptv.cn/河南教育网.php?id=henanliyuan
+河南都市,http://www.kaniptv.cn/河南教育网.php?id=henandushi
+河南民生,http://www.kaniptv.cn/河南教育网.php?id=henanminsheng
