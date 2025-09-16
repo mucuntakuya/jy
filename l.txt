@@ -75,6 +75,12 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 湖南电视剧,http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
 湖南爱晚,http://nn.7x9d.cn/地方台8563/湖南2.php?id=261
 湖南娱乐,http://nn.7x9d.cn/地方台8563/湖南2.php?id=344
+陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
+陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
+陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
+陕西秦腔,http://gxlive.snrtv.com/sx5-SD.m3u8
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f
 河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a
 河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1893427200&k=2bbbb53c494c02c044ed8805c541df4e
