@@ -110,13 +110,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
 河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
-山东齐鲁,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=qlpd
-山东新闻,http://58.58.111.222:808/hls/63/index.m3u8?key=txiptv
-山东综艺,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=yxzy
-山东生活,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=yxsh
-山东文旅,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=yxys
-山东农科,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=nkpd
-山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
