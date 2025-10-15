@@ -1,12 +1,12 @@
 国内,#genre#
 CCTV-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1/1.m3u8
 CCTV-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1/1.m3u8
-CCTV-3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225885/1/1.m3u8
+CCTV-3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1/1.m3u8
 CCTV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225694/1/1.m3u8
 CCTV-5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/1/1.m3u8
-CCTV-6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225826/1/1.m3u8
+CCTV-6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225973/1/1.m3u8
 CCTV-7,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225924/1/1.m3u8
-CCTV-8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225888/1/1.m3u8
+CCTV-8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225976/1/1.m3u8
 CCTV-9,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225930/1/1.m3u8
 CCTV-10,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226118/1/1.m3u8
 CCTV-11,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225703/1/1.m3u8
@@ -119,3 +119,4 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 吉林影视,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlys
 吉林乡村,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlxc
 吉林综艺,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlzywh
+
