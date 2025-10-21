@@ -131,4 +131,3 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 福建电视剧,http://112.5.67.190:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 福建旅游,http://112.5.67.190:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 福建经济,http://112.5.67.190:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-
