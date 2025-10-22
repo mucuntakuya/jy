@@ -119,12 +119,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 吉林影视,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlys
 吉林乡村,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlxc
 吉林综艺,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlzywh
-天津新闻,http://sun135790.x3322.net:9901/tsfile/live/16002_1.m3u8?key=txiptv&playlive=1&authid=0
-天津文艺,http://sun135790.x3322.net:9901/tsfile/live/16003_1.m3u8?key=txiptv&playlive=1&authid=0
-天津影视,http://sun135790.x3322.net:9901/tsfile/live/16004_1.m3u8?key=txiptv&playlive=1&authid=0
-天津都市,http://sun135790.x3322.net:9901/tsfile/live/16005_1.m3u8?key=txiptv&playlive=1&authid=0
-天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
-天津教育,http://sun135790.x3322.net:9901/tsfile/live/16007_1.m3u8?key=txiptv&playlive=1&authid=0
 福建综合,http://112.5.67.190:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 福建乡村,http://112.5.67.190:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 福建新闻,http://112.5.67.190:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
