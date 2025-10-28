@@ -58,7 +58,6 @@ CCTV-5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226164/1/1.m3u8
 CETV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225792/1/1.m3u8
 CETV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/1/1.m3u8
 CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
-山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 北京纪实科教,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226430/1/1.m3u8
 重温经典,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226427/1/1.m3u8
 金鹰纪实,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226228/1.m3u8
@@ -119,9 +118,3 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 吉林影视,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlys
 吉林乡村,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlxc
 吉林综艺,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlzywh
-福建综合,http://112.5.67.190:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-福建乡村,http://112.5.67.190:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-福建新闻,http://112.5.67.190:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-福建电视剧,http://112.5.67.190:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-福建旅游,http://112.5.67.190:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-福建经济,http://112.5.67.190:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
