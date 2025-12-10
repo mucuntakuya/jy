@@ -109,12 +109,3 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
 河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
-海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
-海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-吉林都市,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlds
-吉林生活,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlsh
-吉林影视,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlys
-吉林乡村,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlxc
-吉林综艺,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlzywh
