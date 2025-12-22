@@ -61,10 +61,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 北京纪实科教,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226430/1/1.m3u8
 重温经典,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226427/1/1.m3u8
 金鹰纪实,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226228/1.m3u8
-云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
-云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 湖南经视,http://nn.7x9d.cn/地方台8563/湖南2.php?id=280
 湖南电影,http://nn.7x9d.cn/地方台8563/湖南2.php?id=221
 湖南都市,http://nn.7x9d.cn/地方台8563/湖南2.php?id=346
