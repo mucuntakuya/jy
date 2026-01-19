@@ -68,6 +68,11 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 湖南电视剧,http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
 湖南爱晚,http://nn.7x9d.cn/地方台8563/湖南2.php?id=261
 湖南娱乐,http://nn.7x9d.cn/地方台8563/湖南2.php?id=344
+陕西新闻资讯,http://59.110.19.69:1222/1/migu4k8.php?id=956909289
+陕西都市青春,http://59.110.19.69:1222/1/migu4k8.php?id=956909358
+陕西银龄,http://59.110.19.69:1222/1/migu4k8.php?id=956909362
+陕西秦腔,http://59.110.19.69:1222/1/migu4k8.php?id=956909303
+陕西体育休闲,http://59.110.19.69:1222/1/migu4k8.php?id=956909356
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
@@ -109,3 +114,4 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1/1.m3u8
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226493/1/1.m3u8
 霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225952/1/1.m3u8
+
