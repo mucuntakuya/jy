@@ -113,4 +113,8 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1/1.m3u8
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226493/1/1.m3u8
-霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225952/1/1.m3u8
+辽宁公共,http://182.135.66.163:7788/962045223
+辽宁生活,http://182.135.66.163:7788/962045226
+辽宁影视剧,http://182.135.66.163:7788/962067517
+宁夏文旅,http://182.135.66.163:7788/962067523
+宁夏经济,http://182.135.66.163:7788/962067520
