@@ -97,7 +97,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 临汾-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226353/1/1.m3u8
 长治-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226505/1/1.m3u8
 朔州-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226508/1/1.m3u8
-河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
+河南梨园,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226383/index.m3u8
 移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
 河南曲艺,http://1.94.31.214/php/hntv.php?id=jczy
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
@@ -108,3 +108,4 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1/1.m3u8
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226493/1/1.m3u8
+
