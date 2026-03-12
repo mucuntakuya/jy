@@ -68,11 +68,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 湖南电视剧,http://nn.7x9d.cn/地方台8563/湖南2.php?id=484
 湖南爱晚,http://nn.7x9d.cn/地方台8563/湖南2.php?id=261
 湖南娱乐,http://nn.7x9d.cn/地方台8563/湖南2.php?id=344
-陕西新闻资讯,http://101.35.8.10:1111/956909289
-陕西都市青春,http://101.35.8.10:1111/956909358
-陕西银龄,http://101.35.8.10:1111/956909362
-陕西秦腔,http://101.35.8.10:1111/956909303
-陕西体育休闲,http://101.35.8.10:1111/956909356
 陕西新闻资讯,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
 陕西都市青春,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
 陕西银龄,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
@@ -113,3 +108,4 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
 河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
+
