@@ -113,6 +113,11 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 内蒙古农牧,http://play1-qk.nmtv.cn/live/2329general.m3u8
 深圳都市,http://nn.7x9d.cn/深圳最新.php?id=szds
 深圳电视剧,http://nn.7x9d.cn/深圳最新.php?id=szdsj
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+黑龙江农科,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 吉林都市,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlds
 吉林生活,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlsh
 吉林影视,http://www.kaniptv.cn/aa/吉林/jst.php?id=jlys
