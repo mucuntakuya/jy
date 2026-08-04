@@ -69,11 +69,11 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 湖南爱晚,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNGGMPP360.m3u8
 湖南娱乐,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNYLMPP360.m3u8
 湖南国际,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNGJMPP360.m3u8
-陕西新闻资讯,https://live.chinacert.cftest5.cn/cnmg/live/956909289
-陕西都市青春,https://live.chinacert.cftest5.cn/cnmg/live/956909358
-陕西银龄,https://live.chinacert.cftest5.cn/cnmg/live/956909362
-陕西秦腔,https://live.chinacert.cftest5.cn/cnmg/live/956909303
-陕西体育休闲,https://live.chinacert.cftest5.cn/cnmg/live/956909356
+陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
+陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
+陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
+陕西秦腔,http://gxlive.snrtv.com/sx5-SD.m3u8
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f
 河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a
@@ -99,7 +99,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 临汾-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226353/1/1.m3u8
 长治-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226505/1/1.m3u8
 朔州-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226508/1/1.m3u8
-河南梨园,https://live.chinacert.cftest5.cn/cnmg/live/961930369
+河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
 河南曲艺,http://1.94.31.214/php/hntv.php?id=jczy
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
