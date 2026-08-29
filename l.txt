@@ -107,16 +107,3 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
-CCTV-电视指南,http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8
-CCTV-第一剧场,http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
-CCTV-风云剧场,http://bztv.tvbus.cc:8081/cdnlive/fyjc.m3u8
-CCTV-风云音乐,http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
-CCTV-风云足球,http://bztv.tvbus.cc:8081/cdnlive/fyzq.m3u8
-CCTV-高尔夫网球,http://bztv.tvbus.cc:8081/cdnlive/gefwq.m3u8
-CCTV-兵器科技,http://bztv.tvbus.cc:8081/cdnlive/gfjs.m3u8
-CCTV-女性时尚,http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
-CCTV-世界地理,http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
-CCTV-怀旧剧场,http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
-CCTV-央视台球,http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
-CCTV-央视文化精品,http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
-CCTV-卫生健康,http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
