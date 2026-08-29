@@ -99,7 +99,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 临汾-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226353/1/1.m3u8
 长治-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226505/1/1.m3u8
 朔州-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226508/1/1.m3u8
-河南梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
+河南梨园,http://chen.ccwu.cc:1234/961930369
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2317general.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2328general.m3u8
