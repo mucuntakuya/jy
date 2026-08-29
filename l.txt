@@ -108,12 +108,3 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江6,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
