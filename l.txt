@@ -100,7 +100,13 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 临汾-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226353/1/1.m3u8
 长治-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226505/1/1.m3u8
 朔州-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226508/1/1.m3u8
-河南梨园,http://chen.ccwu.cc:1234/961930369
+河南梨园,http://123.160.175.246:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+移动戏曲,http://123.160.175.246:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市,http://123.160.175.246:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生,http://123.160.175.246:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法制,http://123.160.175.246:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://123.160.175.246:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河南公共,http://123.160.175.246:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2317general.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2328general.m3u8
