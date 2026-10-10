@@ -89,8 +89,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 运城-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225985/1/1.m3u8
 盐湖频道,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226044/1/1.m3u8
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1/1.m3u8
-中牟综合,http://zmgd.zyrnet.com:8888/hls/19/index.m3u8
-中牟生活,http://zmgd.zyrnet.com:8888/hls/20/index.m3u8
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226493/1/1.m3u8
 潞州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225964/1/1.m3u8
 太原-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226502/1/1.m3u8
