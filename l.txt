@@ -89,6 +89,8 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 运城-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225985/1/1.m3u8
 盐湖频道,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226044/1/1.m3u8
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1/1.m3u8
+中牟综合,http://zmgd.zyrnet.com:8888/hls/19/index.m3u8
+中牟生活,http://zmgd.zyrnet.com:8888/hls/20/index.m3u8
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226493/1/1.m3u8
 潞州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225964/1/1.m3u8
 太原-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226502/1/1.m3u8
@@ -102,6 +104,13 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1/1.m3u8
 朔州-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226508/1/1.m3u8
 河南梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+河南都市,http://zmgd.zyrnet.com:8888/hls/21/index.m3u8
+河南民生,http://zmgd.zyrnet.com:8888/hls/22/index.m3u8
+河南法治,http://zmgd.zyrnet.com:8888/hls/23/index.m3u8
+河南电视剧,http://zmgd.zyrnet.com:8888/hls/24/index.m3u8
+河南新闻,http://zmgd.zyrnet.com:8888/hls/25/index.m3u8
+河南公共,http://zmgd.zyrnet.com:8888/hls/27/index.m3u8
+河南乡村,http://zmgd.zyrnet.com:8888/hls/28/index.m3u8
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2317general.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/2328general.m3u8
